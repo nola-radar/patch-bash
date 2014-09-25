@@ -1,6 +1,9 @@
 #!/bin/sh
 # Quick and dirty fix to patch bash.  Make sure you have GCC installed.
 # -Radar
+#
+# Borrowed liberally from here.
+# https://news.ycombinator.com/item?id=8364385
 
 mkdir src
 cd src
